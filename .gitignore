@@ -1,0 +1,8 @@
+*.vs
+bin
+obj
+
+*.csproj
+*.sln
+obj/Debug/net8.0/The Triangle Farmer.AssemblyInfo.cs
+/obj
